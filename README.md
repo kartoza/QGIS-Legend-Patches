@@ -1,6 +1,14 @@
 # QGIS-Legend-Patches
 A collection of patches to use in your legends in QGIS!
 
+![image](https://user-images.githubusercontent.com/178003/80546553-dab71300-89ad-11ea-91c0-edac222e08c2.png)
+
+
+
+![image](https://user-images.githubusercontent.com/178003/80546498-b22f1900-89ad-11ea-885b-9d6e4fe5e0f8.png)
+
+
+
 ## What is this all about?
 
 See this video which explains what legend patches are in QGIS:
