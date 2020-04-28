@@ -7,7 +7,8 @@ A collection of patches to use in your legends in QGIS!
 
 ![image](https://user-images.githubusercontent.com/178003/80546498-b22f1900-89ad-11ea-885b-9d6e4fe5e0f8.png)
 
-
+* [Line patches](https://github.com/kartoza/QGIS-Legend-Patches/blob/master/line-patches.md)
+* [Polygon patches](https://github.com/kartoza/QGIS-Legend-Patches/blob/master/polygon-patches.md)
 
 ## What is this all about?
 
