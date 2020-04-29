@@ -1,12 +1,13 @@
 # QGIS-Legend-Patches
 A collection of patches to use in your legends in QGIS!
 
-![image](https://user-images.githubusercontent.com/178003/80546553-dab71300-89ad-11ea-91c0-edac222e08c2.png)
+![image](https://user-images.githubusercontent.com/178003/80595003-ee00c780-8a1b-11ea-9290-8fd70aaf76bf.png)
 
 
 
 ![image](https://user-images.githubusercontent.com/178003/80546498-b22f1900-89ad-11ea-885b-9d6e4fe5e0f8.png)
 
+* [Point patches](https://github.com/kartoza/QGIS-Legend-Patches/blob/master/point-patches.md)
 * [Line patches](https://github.com/kartoza/QGIS-Legend-Patches/blob/master/line-patches.md)
 * [Polygon patches](https://github.com/kartoza/QGIS-Legend-Patches/blob/master/polygon-patches.md)
 
