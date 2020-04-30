@@ -12,9 +12,9 @@ Tim Sutton | Spikey mess | ![image](https://user-images.githubusercontent.com/17
 Polygon ((0 0, 0.00000000000000006 1, 0.80480482257319963 0.40646044987471919, 1.39834437269848055 1.21126527244791848, 1.2867264554258 0.21751407594865935, 0.37030371557991992 -0.18269757042531931, 0 0))
 Tim Sutton | Heart | ![EWzU8nAWoAE3q2B](https://user-images.githubusercontent.com/178003/80651390-c3d7f580-8a6d-11ea-8e66-9829c27c254b.png)
 CurvePolygon (CompoundCurve ((10 0, 0 10),CircularString (0 10, 5 15, 10 10),CircularString (10 10, 15 15, 20 10),(20 10, 10 0)))
-Klas Karlsson | Coast 1 |
+Klas Karlsson | Coast 1 | ![bild](https://user-images.githubusercontent.com/6375959/80698855-55ca1780-8adb-11ea-9260-72f7cb96e9d9.png)
 Polygon ((1 2, 1 81, 65 81, 62 66, 55 49, 54 37, 55 23, 60 14, 64 9, 65 2, 1 2))
-Klas Karlsson | Coast 2 |
+Klas Karlsson | Coast 2 | ![bild](https://user-images.githubusercontent.com/6375959/80698909-6d090500-8adb-11ea-990b-249f7e7831f2.png)
 Polygon ((1 2, 1 81, 43 81, 51 71, 50 57, 48 44, 54 37, 84 23, 95 14, 99 9, 100 2, 1 2))
-Klas Karlsson | Coast 3 |
+Klas Karlsson | Coast 3 | ![bild](https://user-images.githubusercontent.com/6375959/80698942-7c884e00-8adb-11ea-8ef7-78433a6367fd.png)
 Polygon ((1 2, 1 81, 26 81, 37 73, 65 67, 85 57, 91 47, 91 35, 83 24, 54 20, 39 9, 34 2, 1 2))
