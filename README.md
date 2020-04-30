@@ -32,7 +32,7 @@ Once you have downloaded a patch file, import it in QGIS as per the screenshots 
 ![image](https://user-images.githubusercontent.com/178003/80703612-fec44280-8ada-11ea-888a-51f57e03aac5.png)
 
 
-https://user-images.githubusercontent.com/178003/80703707-30d5a480-8adb-11ea-9c9b-a5bbcde3ab24.png
+![image](https://user-images.githubusercontent.com/178003/80703707-30d5a480-8adb-11ea-9c9b-a5bbcde3ab24.png)
 
 
 
