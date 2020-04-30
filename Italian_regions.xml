@@ -1,0 +1,69 @@
+<!DOCTYPE qgis_style>
+<qgis_style version="2">
+  <symbols/>
+  <colorramps/>
+  <textformats/>
+  <labelsettings/>
+  <legendpatchshapes>
+   <legendpatchshape name="Abruzzo">
+     <definition type="2" wkt="Polygon ((3 3, 8 -1, 5 -5, -2 -5, -7 -2, -3 7, 0 8, 1 5, 2 4, 2 3, 3 3, 3 3, 3 3, 3 3, 3 3))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Basilicata">
+     <definition type="2" wkt="Polygon ((-2 7, 7 0, 3 -6, -2 -6, -6 4, -2 7))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Calabria">
+     <definition type="2" wkt="Polygon ((1 11, 1 6, 6 4, 7 -1, -4 -14, -4 -6, -1 -3, -2 -1, -3 2, -5 4, -5 6, -6 8, -6 8, 1 11))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Campania">
+     <definition type="2" wkt="Polygon ((-6 -1, -9 5, 1 7, 6 2, 4 0, 8 -9, 4 -9, 0 -3, -4 -4, -6 -1))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Emilia-Romagna">
+     <definition type="2" wkt="Polygon ((-9 6, 9 5, 13 -7, 8 -9, 3 -3, -1 -5, -13 -2, -14 4, -9 6),(9 -8, 9 -8, 9 -8, 9 -8, 9 -8))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Friuli Venezia Giulia">
+     <definition type="2" wkt="Polygon ((4 -4, 4 -4, 3 -5, 0 -5, -5 -2, -3 6, 4 5, 2 2, 7 -5, 4 -4))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Lazio">
+     <definition type="2" wkt="Polygon ((-4 -3, -11 4, -8 9, -2 4, 4 8, 5 2, 2 1, 11 -5, 9 -8, 3 -8, 2 -7, -1 -6, -2 -4, -3 -3, -4 -3),(-1 -3, -1 -3, -1 -3, -1 -3, -1 -3),(-2 -1, -2 -1, -2 -1, -2 -1, -2 -1))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Liguria">
+     <definition type="2" wkt="Polygon ((-1 0, 0 0, -1 0, -1 -1, -2 -2, -4 -4, -8 -6, -3 2, 3 4, 12 -2, 3 1, 3 1, 2 1, 2 1, 0 0, -1 0))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Lombardia">
+     <definition type="2" wkt="Polygon ((4 11, 7 9, 6 2, 8 2, 7 -3, 10 -5, 11 -5, 11 -6, 12 -6, 12 -6, 13 -7, 13 -7, 13 -7, -2 -5, -3 -10, -4 -10, -10 -5, -7 -3, -9 3, -8 6, -7 2, -6 2, -4 10, 3 7, 4 11),(-4 -10, -4 -10, -4 -10, -4 -10, -4 -10),(-4 -10, -4 -10, -4 -10, -4 -10, -4 -10))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Marche">
+     <definition type="2" wkt="Polygon ((-4 7, 4 3, 6 -4, 2 -7, -1 -5, -3 1, -8 3, -4 7),(-6 3, -6 3, -6 3, -6 3, -6 3))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Molise">
+     <definition type="2" wkt="Polygon ((2 4, 4 3, 4 -2, -4 -4, -5 0, 2 4))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Piemonte">
+     <definition type="2" wkt="Polygon ((4 16, 7 4, 5 2, 10 -5, -5 -10, -8 -7, -7 -4, -10 1, -6 5, 0 6, 4 16),(6 0, 6 0, 6 0, 6 0),(7 0, 7 0, 7 0, 7 0))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Puglia">
+     <definition type="2" wkt="Polygon ((12 -2, 11 -3, 16 -6, 17 -8, 16 -12, 13 -10, 13 -9, 12 -7, 11 -7, 2 -6, -6 1, -12 1, -15 6, -13 10, -6 10, -6 5, 12 -2),(0 -2, 0 -2, 0 -2, 0 -2, 0 -2))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Sardegna">
+     <definition type="2" wkt="Polygon ((-6 -12, -4 -2, -5 -2, -7 10, -4 8, 2 13, 2 13, 2 13, 2 12, 3 12, 3 11, 4 12, 4 10, 4 11, 5 10, 4 9, 4 9, 4 9, 4 9, 5 9, 5 9, 5 9, 5 9, 5 9, 5 9, 6 8, 7 5, 5 -9, -2 -13, -6 -12))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Sicilia">
+     <definition type="2" wkt="Polygon ((12 8, 8 -1, 10 -6, 9 -7, 9 -10, 8 -10, -16 2, -13 6, -4 4, 12 8))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Toscana">
+     <definition type="2" wkt="Polygon ((0 -11, 1 -11, 1 -10, -3 -7, -3 -6, -5 -6, -11 11, -2 7, 2 9, 5 5, 8 4, 9 4, 10 3, 4 -11, 1 -12, 0 -11),(-5 8, -5 8, -5 8, -5 8, -5 8))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Trentino-Alto Adige">
+     <definition type="2" wkt="Polygon ((7 7, 9 3, 4 1, 5 -3, -1 -8, -6 -7, -6 4, 7 7))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Umbria">
+     <definition type="2" wkt="Polygon ((-2 7, 6 -1, 0 -6, -5 -1, -2 7))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Valle d'Aosta">
+     <definition type="2" wkt="Polygon ((2 3, 4 -1, -2 -3, -4 1, 2 3))" preserveAspect="1"/>
+     </legendpatchshape>
+<legendpatchshape name="Veneto">
+     <definition type="2" wkt="Polygon ((4 12, 4 4, 9 1, 4 -2, 5 -7, 4 -9, -3 -8, -10 0, -2 4, -1 10, 4 12))" preserveAspect="1"/>
+     </legendpatchshape>
+  </legendpatchshapes>
+</qgis_style>
