@@ -5,121 +5,121 @@
   <textformats/>
   <labelsettings/>
   <legendpatchshapes>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Abruzzo">
+    <legendpatchshape tags="Italy Patch Shapes" name="Abruzzo">
       <definition wkt="Polygon ((3 3, 8 -1, 5 -5, -2 -5, -7 -2, -3 7, 0 8, 1 5, 2 4, 2 3, 3 3, 3 3, 3 3, 3 3, 3 3))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Basilicata">
+    <legendpatchshape tags="Italy Patch Shapes" name="Basilicata">
       <definition wkt="Polygon ((-2 7, 7 0, 3 -6, -2 -6, -6 4, -2 7))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Tim Patches,all-patch-shapes" name="Big ol' circle">
+    <legendpatchshape tags="Tim Patches" name="Big ol' circle">
       <definition wkt="CurvePolygon (CompoundCurve (CircularString (0.89208276284707999 1.5412733072743614, 1.92088636585426542 0.51246970426717597, 0.89208276284707999 -0.51633389874000946, -0.13672084016010544 0.51246970426717597, 0.89208276284707999 1.5412733072743614)))" preserveAspect="0" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Tim Patches,all-patch-shapes" name="Bite of my sandwich">
+    <legendpatchshape tags="Tim Patches" name="Bite of my sandwich">
       <definition wkt="Polygon ((0 0, 0.00000000000000012 2, 2 2, 2 1, 3 1, 3 2, 4 2, 4 1, 4 0, 0 0))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Construction,Klas Patches,all-patch-shapes" name="Building 1">
+    <legendpatchshape tags="Construction,Klas Patches" name="Building 1">
       <definition wkt="CurvePolygon (CompoundCurve ((5 0, 5 39, 38 39),CircularString (38 39, 53 53, 72 39),(72 39, 102 40, 102 0, 5 0)))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Construction,Klas Patches,all-patch-shapes" name="Building 2">
+    <legendpatchshape tags="Construction,Klas Patches" name="Building 2">
       <definition wkt="Polygon ((14 26, 23 4, 63 22, 69 8, 85 15, 80 28, 95 35, 86 56, 71 50, 65 65, 48 58, 54 43, 14 26))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Construction,Klas Patches,all-patch-shapes" name="Building 3">
+    <legendpatchshape tags="Construction,Klas Patches" name="Building 3">
       <definition wkt="MultiPolygon (((117 16, 86 16, 92 18, 87 37, 47 27, 50 16, 24 16, 19 37, 105 59, 117 16)),((158 72, 158 56, 147 53, 152 33, 158 35, 158 21, 140 16, 132 16, 120 63, 158 72)),((108 108, 132 108, 135 97, 152 102, 156 88, 116 78, 108 108)),((6 88, 6 101, 33 108, 93 108, 101 74, 15 52, 6 88),(36 72, 76 82, 71 101, 31 91, 36 72)))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Construction,Klas Patches,all-patch-shapes" name="Building 4">
+    <legendpatchshape tags="Construction,Klas Patches" name="Building 4">
       <definition wkt="Polygon ((148 83, 148 13, 112 13, 112 43, 47 43, 47 13, 11 13, 11 83, 148 83))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Calabria">
+    <legendpatchshape tags="Italy Patch Shapes" name="Calabria">
       <definition wkt="Polygon ((1 11, 1 6, 6 4, 7 -1, -4 -14, -4 -6, -1 -3, -2 -1, -3 2, -5 4, -5 6, -6 8, -6 8, 1 11))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Campania">
+    <legendpatchshape tags="Italy Patch Shapes" name="Campania">
       <definition wkt="Polygon ((-6 -1, -9 5, 1 7, 6 2, 4 0, 8 -9, 4 -9, 0 -3, -4 -4, -6 -1))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Tim Patches,all-patch-shapes" name="Chunk Missing">
+    <legendpatchshape tags="Tim Patches" name="Chunk Missing">
       <definition wkt="Polygon ((0 0, 0.00000000000000012 2, 2 2, 2 4, 4 4, 6 4, 6 2, 6 0, 0 0))" preserveAspect="0" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Tim Patches,all-patch-shapes" name="Climbing Dots">
+    <legendpatchshape tags="Tim Patches" name="Climbing Dots">
       <definition wkt="MultiPoint ((0 0),(2 2),(4 4),(6 6))" preserveAspect="0" type="0"/>
     </legendpatchshape>
-    <legendpatchshape tags="polygon,Natural,Klas Patches,all-patch-shapes" name="Coast 1">
+    <legendpatchshape tags="polygon,Natural,Klas Patches" name="Coast 1">
       <definition wkt="Polygon ((1 2, 1 81, 65 81, 62 66, 55 49, 54 37, 55 23, 60 14, 64 9, 65 2, 1 2))" preserveAspect="0" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="polygon,Natural,Klas Patches,all-patch-shapes" name="Coast 2">
+    <legendpatchshape tags="polygon,Natural,Klas Patches" name="Coast 2">
       <definition wkt="Polygon ((1 2, 1 81, 43 81, 51 71, 50 57, 48 44, 54 37, 84 23, 95 14, 99 9, 100 2, 1 2))" preserveAspect="0" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="polygon,Natural,Klas Patches,all-patch-shapes" name="Coast 3">
+    <legendpatchshape tags="polygon,Natural,Klas Patches" name="Coast 3">
       <definition wkt="Polygon ((1 2, 1 81, 26 81, 37 73, 65 67, 85 57, 91 47, 91 35, 83 24, 54 20, 39 9, 34 2, 1 2))" preserveAspect="0" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Lines,Natural,Klas Patches,all-patch-shapes" name="Contours 1">
+    <legendpatchshape tags="Lines,Natural,Klas Patches" name="Contours 1">
       <definition wkt="MultiLineString ((3 40, 6 51, 13 61, 26 72, 46 73, 65 68, 75 56, 83 44, 84 37, 83 29, 76 17, 65 9, 54 5, 35 3, 16 9, 5 18, 1 31, 3 40),(55 56, 66 49, 74 34, 70 24, 62 20, 48 20, 38 28, 36 38, 38 49, 42 54, 50 57, 55 56),(62 41, 57 44, 53 41, 49 37, 51 32, 57 31, 61 32, 64 35, 64 38, 62 41))" preserveAspect="0" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Lines,Natural,Klas Patches,all-patch-shapes" name="Contours 2">
+    <legendpatchshape tags="Lines,Natural,Klas Patches" name="Contours 2">
       <definition wkt="MultiLineString ((16 77, 8 73, 3 59, 3 32, 8 17, 14 10, 23 6, 41 4, 58 6, 75 5, 88 7, 93 14, 93 21, 91 28, 81 35, 70 36, 54 39, 50 45, 47 57, 46 70, 36 78, 27 79, 17 77),(26 60, 22 54, 23 43, 28 37, 32 38, 34 45, 30 56, 28 60, 26 60),(33 68, 26 71, 17 66, 13 54, 15 38, 21 23, 34 14, 45 15, 51 22, 48 33, 38 43, 35 56, 35 65, 33 68))" preserveAspect="0" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Lines,Natural,Klas Patches,all-patch-shapes" name="Delta 1">
+    <legendpatchshape tags="Lines,Natural,Klas Patches" name="Delta 1">
       <definition wkt="MultiLineString ((4 16, 16 22, 30 26, 41 26, 54 24, 68 21, 81 21, 94 25, 109 31),(37 26, 45 27, 51 31, 55 35, 65 41, 80 43, 95 44, 109 48),(71 21, 79 19, 87 14.91624996415369253, 97 11, 107 12))" preserveAspect="0" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Lines,Natural,Klas Patches,all-patch-shapes" name="Delta 2">
+    <legendpatchshape tags="Lines,Natural,Klas Patches" name="Delta 2">
       <definition wkt="MultiLineString ((2 37, 11 37),(11 37, 11 37),(11 37, 28 38, 52 36, 74 39, 90 37),(11 37, 23 35, 34 28),(32 38, 41 39, 46 43, 48 47),(34 28, 49 19, 69 16, 88 19),(34 28, 49 25, 69 24, 89 23),(48 47, 56 52, 71 52, 82 55, 89 58),(48 47, 53 54, 63 61, 77 65, 89 64),(55 37, 64 36, 73 32, 83 29, 90 28),(67 38, 73 41, 76 45, 79 48, 89 51))" preserveAspect="0" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Points,Natural,Klas Patches,all-patch-shapes" name="Dense - Sparse 1">
+    <legendpatchshape tags="Points,Natural,Klas Patches" name="Dense - Sparse 1">
       <definition wkt="MultiPoint ((0.79000000000000004 1.04000000000000004),(0.73999999999999999 1.03000000000000003),(0.79800000000000004 1.02000000000000002),(0.77000000000000002 0.98999999999999999),(0.72299999999999998 1.01800000000000002),(0.78000000000000003 0.96999999999999997),(0.84699999999999998 1),(0.90600000000000003 0.96999999999999997),(0.74199999999999999 0.96899999999999997),(0.75049999999999994 1.00619999999999998),(0.75429999999999997 0.98599999999999999),(0.77139999999999997 1.01760000000000006),(0.73499999999999999 1.002),(0.81299999999999994 1.00299999999999989),(0.76190000000000002 1.03200000000000003),(0.88429999999999997 1.03899999999999992))" preserveAspect="1" type="0"/>
     </legendpatchshape>
-    <legendpatchshape tags="Points,Natural,Klas Patches,all-patch-shapes" name="Dense - Sparse 2">
+    <legendpatchshape tags="Points,Natural,Klas Patches" name="Dense - Sparse 2">
       <definition wkt="MultiPoint ((0.879 1.02699999999999991),(0.86350000000000005 1.01479999999999992),(0.85970000000000002 1.03289999999999993),(0.77100000000000002 0.995),(0.72399999999999998 1.01859999999999995),(0.88200000000000001 0.98350000000000004),(0.84299999999999997 1.004),(0.90600000000000003 0.96999999999999997),(0.874 1.00249999999999995),(0.88700000000000001 1.01390000000000002),(0.871 0.96899999999999997),(0.84099999999999997 1.02600000000000002),(0.83599999999999997 0.98099999999999998),(0.81310000000000004 1.00340000000000007),(0.85780000000000001 0.99109999999999998),(0.88439999999999996 1.0394000000000001))" preserveAspect="1" type="0"/>
     </legendpatchshape>
-    <legendpatchshape tags="Points,Natural,Klas Patches,all-patch-shapes" name="Dense 1">
+    <legendpatchshape tags="Points,Natural,Klas Patches" name="Dense 1">
       <definition wkt="MultiPoint ((0.71164913053618051 1.02430914948690499),(0.74486487372493304 1.03854446799637046),(0.79895908406090155 1.02430914948690499),(0.74771193742682618 1.00627774604158216),(0.85684937933272742 1.03285034059258418),(0.79231593542315104 0.9986855761698672),(0.82742972107983237 1.01481893714726135),(0.84641014575911955 0.99963459740383165),(0.77048844704197084 1.02241110701897631),(0.72588444904564586 1.00437970357365347),(0.72493542781168152 1.06226999884547935),(0.76384529840422033 1.05088174403790702),(0.80370419023072337 1.05657587144169307),(0.8131944025703669 1.00343068233968902),(0.81224538133640256 1.03285034059258418),(0.84735916699308389 1.05088174403790702))" preserveAspect="1" type="0"/>
     </legendpatchshape>
-    <legendpatchshape tags="Points,Natural,Klas Patches,all-patch-shapes" name="Dense 2">
+    <legendpatchshape tags="Points,Natural,Klas Patches" name="Dense 2">
       <definition wkt="MultiPoint ((0.77902000000000005 1.03759000000000001),(0.74480000000000002 1.03849999999999998),(0.79890000000000005 1.02429999999999999),(0.77139999999999997 0.99487999999999999),(0.82830000000000004 1.05459999999999998),(0.78659999999999997 0.9778),(0.82740000000000002 1.01479999999999992),(0.84640000000000004 0.99960000000000004),(0.74199999999999999 0.96919999999999995),(0.75049999999999994 1.00629999999999997),(0.81310000000000004 0.97399999999999998),(0.76380000000000003 1.05089999999999995),(0.80369999999999997 1.05649999999999999),(0.81310000000000004 1.00340000000000007),(0.76190000000000002 1.03279999999999994),(0.85209999999999997 1.02429999999999999))" preserveAspect="0" type="0"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Emilia-Romagna">
+    <legendpatchshape tags="Italy Patch Shapes" name="Emilia-Romagna">
       <definition wkt="Polygon ((-9 6, 9 5, 13 -7, 8 -9, 3 -3, -1 -5, -13 -2, -14 4, -9 6),(9 -8, 9 -8, 9 -8, 9 -8, 9 -8))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Friuli Venezia Giulia">
+    <legendpatchshape tags="Italy Patch Shapes" name="Friuli Venezia Giulia">
       <definition wkt="Polygon ((4 -4, 4 -4, 3 -5, 0 -5, -5 -2, -3 6, 4 5, 2 2, 7 -5, 4 -4))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Tim Patches,all-patch-shapes" name="Heart">
+    <legendpatchshape tags="Tim Patches" name="Heart">
       <definition wkt="CurvePolygon (CompoundCurve ((10 0, 0 10),CircularString (0 10, 5 15, 10 10),CircularString (10 10, 15 15, 20 10),(20 10, 10 0)))" preserveAspect="0" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Tim Patches,all-patch-shapes" name="Heartbeat">
+    <legendpatchshape tags="Tim Patches" name="Heartbeat">
       <definition wkt="LineString (0 0, 1 3, 3 1, 3 4, 5 1, 6 5, 8 2, 9 4, 11 1)" preserveAspect="0" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Tim Patches,all-patch-shapes" name="Invisible Square">
+    <legendpatchshape tags="Tim Patches" name="Invisible Square">
       <definition wkt="MultiPoint ((0 0),(0 4),(4 4),(4 0))" preserveAspect="0" type="0"/>
     </legendpatchshape>
-    <legendpatchshape tags="Colorful,Natural,Klas Patches,all-patch-shapes" name="Irrigation 1">
+    <legendpatchshape tags="Colorful,Natural,Klas Patches" name="Irrigation 1">
       <definition wkt="MultiLineString ((2 3, 65 53, 84 29, 100 42),(40 33, 28 49, 12 37),(84 29, 51 2),(84 29, 94 18),(22 19, 35 3))" preserveAspect="0" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Lines,Natural,Klas Patches,all-patch-shapes" name="Irrigation 2">
+    <legendpatchshape tags="Lines,Natural,Klas Patches" name="Irrigation 2">
       <definition wkt="MultiLineString ((31 42, 7 58),(7 6, 31 42),(31 42, 40 55, 75 32),(31 42, 31 42),(61 41, 82 72))" preserveAspect="0" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Lazio">
+    <legendpatchshape tags="Italy Patch Shapes" name="Lazio">
       <definition wkt="Polygon ((-4 -3, -11 4, -8 9, -2 4, 4 8, 5 2, 2 1, 11 -5, 9 -8, 3 -8, 2 -7, -1 -6, -2 -4, -3 -3, -4 -3),(-1 -3, -1 -3, -1 -3, -1 -3, -1 -3),(-2 -1, -2 -1, -2 -1, -2 -1, -2 -1))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Liguria">
+    <legendpatchshape tags="Italy Patch Shapes" name="Liguria">
       <definition wkt="Polygon ((-1 0, 0 0, -1 0, -1 -1, -2 -2, -4 -4, -8 -6, -3 2, 3 4, 12 -2, 3 1, 3 1, 2 1, 2 1, 0 0, -1 0))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Lombardia">
+    <legendpatchshape tags="Italy Patch Shapes" name="Lombardia">
       <definition wkt="Polygon ((4 11, 7 9, 6 2, 8 2, 7 -3, 10 -5, 11 -5, 11 -6, 12 -6, 12 -6, 13 -7, 13 -7, 13 -7, -2 -5, -3 -10, -4 -10, -10 -5, -7 -3, -9 3, -8 6, -7 2, -6 2, -4 10, 3 7, 4 11),(-4 -10, -4 -10, -4 -10, -4 -10, -4 -10),(-4 -10, -4 -10, -4 -10, -4 -10, -4 -10))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Marche">
+    <legendpatchshape tags="Italy Patch Shapes" name="Marche">
       <definition wkt="Polygon ((-4 7, 4 3, 6 -4, 2 -7, -1 -5, -3 1, -8 3, -4 7),(-6 3, -6 3, -6 3, -6 3, -6 3))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Lines,Natural,Klas Patches,all-patch-shapes" name="Meander 1">
+    <legendpatchshape tags="Lines,Natural,Klas Patches" name="Meander 1">
       <definition wkt="CompoundCurve (CircularString (6 21, 24 42, 34 22, 38 8, 52 25, 58 38, 65 29),(65 29, 65 20),CircularString (65 20, 75 13, 81 20, 87 26, 97 21, 106 17, 109 20, 116 23, 121 19))" preserveAspect="0" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Lines,Natural,Klas Patches,all-patch-shapes" name="Meander 2">
+    <legendpatchshape tags="Lines,Natural,Klas Patches" name="Meander 2">
       <definition wkt="MultiCurve (CompoundCurve (CircularString (8 27, 22 38, 34 21, 37 11, 53 25, 58 40, 74 28, 78 19, 92 21, 103 26, 113 22, 118 19, 126 25, 133 31, 140 29)),LineString (75 16, 76 14, 78 12, 81 11, 85 11, 88 13, 89 15),LineString (94 29, 95 32, 97 35, 101 36, 106 35, 108 32, 109 29))" preserveAspect="0" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Points,Natural,Klas Patches,all-patch-shapes" name="Medium 1">
+    <legendpatchshape tags="Points,Natural,Klas Patches" name="Medium 1">
       <definition wkt="MultiPoint ((0.71354717300410919 0.99488949123400983),(0.74486487372493304 1.03854446799637046),(0.79895908406090155 1.02430914948690499),(0.74771193742682618 1.00627774604158216),(0.81224538133640256 0.99109340629815246),(0.70310793943050132 1.04044251046429914),(0.79421397789107973 1.05752489267565752))" preserveAspect="1" type="0"/>
     </legendpatchshape>
-    <legendpatchshape tags="Points,Natural,Klas Patches,all-patch-shapes" name="Medium 2">
+    <legendpatchshape tags="Points,Natural,Klas Patches" name="Medium 2">
       <definition wkt="MultiPoint ((0.71164913053618051 1.02430914948690499),(0.74486487372493304 1.03854446799637046),(0.79895908406090155 1.02430914948690499),(0.74771193742682618 1.00627774604158216),(0.85684937933272742 1.03285034059258418),(0.79231593542315104 0.9986855761698672),(0.82742972107983237 1.01481893714726135),(0.84641014575911955 0.99963459740383165))" preserveAspect="1" type="0"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Molise">
+    <legendpatchshape tags="Italy Patch Shapes" name="Molise">
       <definition wkt="Polygon ((2 4, 4 3, 4 -2, -4 -4, -5 0, 2 4))" preserveAspect="1" type="2"/>
     </legendpatchshape>
     <legendpatchshape tags="all-patch-shapes,Natural,Klas Patches" name="Natural 1">
@@ -131,13 +131,13 @@
     <legendpatchshape tags="all-patch-shapes,Natural,Klas Patches" name="Natural 3">
       <definition wkt="CurvePolygon (CompoundCurve (CircularString (6 34, 10 49, 14 52, 53 53, 83 27, 84 19, 77 11, 23 12, 6 32),(6 32, 6 34)),(24 42, 30 44, 34 44, 39 40, 39 34, 33 31, 25 33, 21 37, 24 42))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Piemonte">
+    <legendpatchshape tags="Italy Patch Shapes" name="Piemonte">
       <definition wkt="Polygon ((4 16, 7 4, 5 2, 10 -5, -5 -10, -8 -7, -7 -4, -10 1, -6 5, 0 6, 4 16),(6 0, 6 0, 6 0, 6 0),(7 0, 7 0, 7 0, 7 0))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Puglia">
+    <legendpatchshape tags="Italy Patch Shapes" name="Puglia">
       <definition wkt="Polygon ((12 -2, 11 -3, 16 -6, 17 -8, 16 -12, 13 -10, 13 -9, 12 -7, 11 -7, 2 -6, -6 1, -12 1, -15 6, -13 10, -6 10, -6 5, 12 -2),(0 -2, 0 -2, 0 -2, 0 -2, 0 -2))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Tim Patches,all-patch-shapes" name="Random Dots">
+    <legendpatchshape tags="Tim Patches" name="Random Dots">
       <definition wkt="MultiPoint ((0 0),(1 4),(3 2),(4 1))" preserveAspect="0" type="0"/>
     </legendpatchshape>
     <legendpatchshape tags="all-patch-shapes,Natural,Klas Patches" name="River 1">
@@ -149,61 +149,61 @@
     <legendpatchshape tags="all-patch-shapes,Natural,Klas Patches" name="River 3">
       <definition wkt="MultiCurve (CompoundCurve (CircularString (7 8, 18 24, 37 33, 42 31, 45 28, 51 20, 60 18, 68 21, 74 22, 80 19, 81 16, 87 12, 90 18, 96 25, 100 24)),LineString (74 22, 77 23, 81 25, 83 27, 85 30, 88 33, 92 35, 96 35, 100 35))" preserveAspect="1" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Lines,Natural,Klas Patches,all-patch-shapes" name="River lost">
+    <legendpatchshape tags="Lines,Natural,Klas Patches" name="River lost">
       <definition wkt="MultiLineString ((3.64499995263743637 20.20791663622703993, 12.74666662860360056 22.11291663817344499, 22.27166663833563121 21.47791663752464331, 28.83333331170658553 17.98541663395623402, 39.62833332273622489 16.50374996577569675, 46.82499999675597735 17.87958330051476707, 53.17500000324400133 21.26624997064170941, 59.31333334284908432 22.95958330570518058),(63.97000001427363713 22.95958330570518058, 71.06083335485192265 22.43041663849784584),(74.65916669186179888 21.9012499712905111, 78.99833336296195796 21.47791663752464331),(82.49083336653036724 20.94874997031730857, 85.34833336944997484 20.94874997031730857),(91.06333337528919003 21.58374997096611025, 88.84083337301838412 21.16041663720024246))" preserveAspect="1" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Lines,Natural,Klas Patches,all-patch-shapes" name="Roads 1">
+    <legendpatchshape tags="Lines,Natural,Klas Patches" name="Roads 1">
       <definition wkt="MultiLineString ((3 8, 12 26, 19 35, 28 44, 40 53, 50 58),(50 58, 68 65, 86 69),(50 58, 58 51, 60 45, 60 39, 61 32, 64 28, 73 21, 82 19, 89 14, 93 10))" preserveAspect="0" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Lines,Natural,Klas Patches,all-patch-shapes" name="Roads 2">
+    <legendpatchshape tags="Lines,Natural,Klas Patches" name="Roads 2">
       <definition wkt="MultiLineString ((12 70, 20 59, 20 59),(20 59, 20 59),(23 14, 21 19, 21 25, 23 31, 21 37, 18 44, 19 52, 20 59),(20 59, 29 53, 46 44, 60 41, 68 36, 74 29, 77 19, 79 6))" preserveAspect="0" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Lines,Natural,Klas Patches,all-patch-shapes" name="Roads 3">
+    <legendpatchshape tags="Lines,Natural,Klas Patches" name="Roads 3">
       <definition wkt="MultiLineString ((4 29, 30 49, 38 53, 47 55, 55 59, 79 77),(8 73, 29 48, 38 41, 50 36, 64 27, 72 17, 84 8))" preserveAspect="0" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Natural,Klas Patches,all-patch-shapes" name="Roads 4">
+    <legendpatchshape tags="Natural,Klas Patches" name="Roads 4">
       <definition wkt="MultiCurve (CompoundCurve (CircularString (8 34, 39 41, 61 43, 68 36, 54 35, 52 52, 52 60)),LineString (61 43, 93 42),LineString (54 35, 57 19),LineString (60 29, 59 28, 58 26, 57 23))" preserveAspect="1" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Natural,Klas Patches,all-patch-shapes" name="Roads 5">
+    <legendpatchshape tags="Natural,Klas Patches" name="Roads 5">
       <definition wkt="MultiCurve (CompoundCurve (CircularString (66 49, 79 36, 66 24, 54 36, 66 49)),LineString (55 41, 51 37, 44 34, 35 31, 17 29, 6 26),LineString (44 34, 51 34, 55 32),LineString (78 41, 82 40, 88 39, 97 42, 104 46),LineString (88 39, 82 36, 78 32),LineString (69 24, 71 20, 74 18, 81 16, 90 12))" preserveAspect="1" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Sardegna">
+    <legendpatchshape tags="Italy Patch Shapes" name="Sardegna">
       <definition wkt="Polygon ((-6 -12, -4 -2, -5 -2, -7 10, -4 8, 2 13, 2 13, 2 13, 2 12, 3 12, 3 11, 4 12, 4 10, 4 11, 5 10, 4 9, 4 9, 4 9, 4 9, 5 9, 5 9, 5 9, 5 9, 5 9, 5 9, 6 8, 7 5, 5 -9, -2 -13, -6 -12))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Sicilia">
+    <legendpatchshape tags="Italy Patch Shapes" name="Sicilia">
       <definition wkt="Polygon ((12 8, 8 -1, 10 -6, 9 -7, 9 -10, 8 -10, -16 2, -13 6, -4 4, 12 8))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Points,Natural,Klas Patches,all-patch-shapes" name="Sparse 1">
+    <legendpatchshape tags="Points,Natural,Klas Patches" name="Sparse 1">
       <definition wkt="MultiPoint ((0 0),(1 1))" preserveAspect="1" type="0"/>
     </legendpatchshape>
-    <legendpatchshape tags="Points,Natural,Klas Patches,all-patch-shapes" name="Sparse 2">
+    <legendpatchshape tags="Points,Natural,Klas Patches" name="Sparse 2">
       <definition wkt="MultiPoint ((0.70310793943050132 1.02430914948690499),(0.77238648950989952 0.98824634259625932),(0.79421397789107973 1.03569740429447732))" preserveAspect="1" type="0"/>
     </legendpatchshape>
-    <legendpatchshape tags="Points,Natural,Klas Patches,all-patch-shapes" name="Sparse 3">
+    <legendpatchshape tags="Points,Natural,Klas Patches" name="Sparse 3">
       <definition wkt="MultiPoint ((0.71354717300410919 0.99488949123400983),(0.74486487372493304 1.03854446799637046),(0.79895908406090155 1.02430914948690499))" preserveAspect="1" type="0"/>
     </legendpatchshape>
-    <legendpatchshape tags="Tim Patches,all-patch-shapes" name="Spikey mess">
+    <legendpatchshape tags="Tim Patches" name="Spikey mess">
       <definition wkt="Polygon ((0 0, 0.00000000000000006 1, 0.80480482257319963 0.40646044987471919, 1.39834437269848055 1.21126527244791848, 1.2867264554258 0.21751407594865935, 0.37030371557991992 -0.18269757042531931, 0 0))" preserveAspect="0" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Tim Patches,all-patch-shapes" name="Stray Hair">
+    <legendpatchshape tags="Tim Patches" name="Stray Hair">
       <definition wkt="CompoundCurve (CircularString (6.73424842557187731 6.54184132769836424, -0.18039629802337132 17.31663880861336224, 6.73424842557187819 28.09143628952836025, 6.95635639559388252 27.83239680064827581, 6.62833626160482225 27.73839574297150889, 18.25749928115512688 27.18730083899192707, 12.91182029516728313 16.84491937690900087))" preserveAspect="0" type="1"/>
     </legendpatchshape>
-    <legendpatchshape tags="Tim Patches,all-patch-shapes" name="Tetris Block">
+    <legendpatchshape tags="Tim Patches" name="Tetris Block">
       <definition wkt="Polygon ((0 0, 0 5, 5 5, 5 10, 10 10, 10 5, 15 5, 15 0, 0 0))" preserveAspect="0" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Toscana">
+    <legendpatchshape tags="Italy Patch Shapes" name="Toscana">
       <definition wkt="Polygon ((0 -11, 1 -11, 1 -10, -3 -7, -3 -6, -5 -6, -11 11, -2 7, 2 9, 5 5, 8 4, 9 4, 10 3, 4 -11, 1 -12, 0 -11),(-5 8, -5 8, -5 8, -5 8, -5 8))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Trentino-Alto Adige">
+    <legendpatchshape tags="Italy Patch Shapes" name="Trentino-Alto Adige">
       <definition wkt="Polygon ((7 7, 9 3, 4 1, 5 -3, -1 -8, -6 -7, -6 4, 7 7))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Umbria">
+    <legendpatchshape tags="Italy Patch Shapes" name="Umbria">
       <definition wkt="Polygon ((-2 7, 6 -1, 0 -6, -5 -1, -2 7))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Valle d'Aosta">
+    <legendpatchshape tags="Italy Patch Shapes" name="Valle d'Aosta">
       <definition wkt="Polygon ((2 3, 4 -1, -2 -3, -4 1, 2 3))" preserveAspect="1" type="2"/>
     </legendpatchshape>
-    <legendpatchshape tags="Italy Patch Shapes,all-patch-shapes" name="Veneto">
+    <legendpatchshape tags="Italy Patch Shapes" name="Veneto">
       <definition wkt="Polygon ((4 12, 4 4, 9 1, 4 -2, 5 -7, 4 -9, -3 -8, -10 0, -2 4, -1 10, 4 12))" preserveAspect="1" type="2"/>
     </legendpatchshape>
   </legendpatchshapes>
