@@ -26,6 +26,7 @@ Name | Author | File
 All  | Various | all-patch-shapes.xml
 Italy Provinces | Totò Fiandaca | Italian-regions.xml
 Klas Patches | Klas Karlsson | klas-karlsson-patches.xml
+Archaeology Patches | Val Pinna | Archaeological_patches.xml
 
 Once you have downloaded a patch file, import it in QGIS as per the screenshots below:
 
