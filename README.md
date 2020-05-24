@@ -27,7 +27,7 @@ All  | Various | all-patch-shapes.xml
 Italy Provinces | Totò Fiandaca | Italian-regions.xml
 Klas Patches | Klas Karlsson | klas-karlsson-patches.xml
 Archaeology Patches | Val Pinna | Archaeological_patches.xml
-Peru Departaments | Antony Barja | Peru_regions.xml
+Peru region boundaries| Antony Barja | Peru_regions.xml
 
 Once you have downloaded a patch file, import it in QGIS as per the screenshots below:
 
