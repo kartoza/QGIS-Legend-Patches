@@ -1,4 +1,10 @@
 # QGIS-Legend-Patches
+
+![GitHub stars](https://img.shields.io/github/stars/qgis/QGIS?color=blue&label=qgis%3A%3Astarts&logo=qgis&logoColor=green)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub commit](https://img.shields.io/github/last-commit/pcm-dpc/COVID-19)](https://github.com/kartoza/QGIS-Legend-Patches/commits/master)
+
+
 A collection of patches to use in your legends in QGIS!
 
 ![bild](https://user-images.githubusercontent.com/6375959/80809035-268dd600-8bc1-11ea-8f86-6f0fb0e235df.png)
@@ -27,7 +33,7 @@ All  | Various | all-patch-shapes.xml
 Italy Provinces | Totò Fiandaca | Italian-regions.xml
 Klas Patches | Klas Karlsson | klas-karlsson-patches.xml
 Archaeology Patches | Val Pinna | Archaeological_patches.xml
-Peru region boundaries| Antony Barja | Peru_regions.xml
+Peru patches | Antony Barja | Peru_regions.xml - Peru_provinces.xml
 
 Once you have downloaded a patch file, import it in QGIS as per the screenshots below:
 
