@@ -1,6 +1,8 @@
 # QGIS-Legend-Patches
 A collection of patches to use in your legends in QGIS!
 
+> **NOTE**: We have moved most of these patches into the [QGIS Sharing Repo now](https://plugins.qgis.org/styles/types/Legend%20Patch/) - please go there for more patches.
+
 ![bild](https://user-images.githubusercontent.com/6375959/80809035-268dd600-8bc1-11ea-8f86-6f0fb0e235df.png)
 
 ![image](https://user-images.githubusercontent.com/178003/80546498-b22f1900-89ad-11ea-885b-9d6e4fe5e0f8.png)
